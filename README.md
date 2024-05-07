@@ -12,7 +12,7 @@
 
 - [Stock ROM Dump](https://github.com/1ndev-ui/dump_vortex_cg65)
 - [TWRP/OFRP Recovery Device Tree](https://github.com/1ndev-ui/TWRP_CG65_device_tree)
-- [Vendor Partition Tree](https://github.com/1ndev-ui/vendor_vortex_CG65)
+- [Vendor Partition Device Tree](https://github.com/1ndev-ui/vendor_vortex_CG65)
 
 ## SPECIFICATIONS:
 
