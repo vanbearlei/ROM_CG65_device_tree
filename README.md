@@ -1,4 +1,4 @@
-# Android device tree for Vortex CG65 (CG65)
+# Android device tree for GT Tab10 Metal  - start
 
 ```
 #
@@ -7,8 +7,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-
-![Vortex CG65 Image](https://standupwireless.com/wp-content/uploads/CG65.png)
+start
 
 - [Stock ROM Dump](https://github.com/1ndev-ui/dump_vortex_cg65)
 - [TWRP/OFRP Recovery Device Tree](https://github.com/1ndev-ui/TWRP_CG65_device_tree)
